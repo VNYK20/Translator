@@ -1,10 +1,10 @@
-<h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project </h1>
-<h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service.</b></a>
+<h1>Microsoft-Future-Ready-Talent-Project </h1>
+<h2>Project Title:</h2><b><a href="https://aitranslatorwebapp.azurewebsites.net/">PolyLingo - AI Translation Web App using Azure AI Translation Service.</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://aiwebappazure.azurewebsites.net/ <br>
+<b>Project Demo URL :</b> https://aitranslatorwebapp.azurewebsites.net/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
-<b>Github Repository URL :</b> https://github.com/AnkeetaGupta/flask-ai-translation.git <br>
+<b>Github Repository URL :</b> https://github.com/vaibhavshejwal/Translator <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
 <h3>
@@ -15,19 +15,19 @@ Azure AI Service <br>
 1. Azure AI Translator Service
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.</p>
+<p align="justify">In our ever more interconnected world, the demand for smooth communication across language barriers is more crucial than ever. The challenge lies in establishing a user-friendly platform where individuals can effortlessly translate content while retaining a record of their interactions. The opportunity is to develop an efficient, scalable solution that caters to language translation requirements and enriches user experience by integrating recent search data.</p>
 <h2>Project Description</h2>
-<p align="justify">The "Multilingual Content Hub - VOX" is a web application designed to facilitate language translation and maintain a history of person interactions. Users can enter text, and the gadget leverages Azure AI Translator service to provide accurate and contextually relevant translations. The software additionally consists of a characteristic to show recent searches, allowing users to revisit and reuse previous translations easily.</p><br>
+<p align="justify">"PolyLingo" is a web application aimed at streamlining language translation and preserving a record of user interactions. Through the platform, users can input text, and the tool utilizes the Azure AI Translator service to deliver precise and contextually appropriate translations. Moreover, the software includes a feature to display recent searches, enabling users to conveniently revisit and reuse past translations.</p><br>
 <b>Key Features :</b>
 <ul>
-    <li>Seamless Language Translation</li>
     <li>User-Friendly Interface</li>
-    <li>History Tracking and Recent Searches</li>
+    <li>Seamless Language Translation</li>
     <li>Azure App Service Hosting</li>
+    <li>History Tracking and Recent Searches</li>
     <li>Azure SQL Database for Efficient Data Management</li>
 </ul>
 <b>Future Enhancements :</b><br>
-<p align="justify">The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
+<p align="justify">The Webapp serves not only as an independent initiative but also as a cornerstone for potential future expansions. Exploring integrations with additional Azure offerings, such as Azure Storage for managing multimedia content and Azure Key Vault for enhanced security, remains an avenue for further development. Additionally, leveraging monitoring and analytics through Azure Monitor and Azure Application Insights sets the stage for ongoing enhancements and optimization.</p>
 <h2>Core Azure Services</h2>
 <b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
 
@@ -46,24 +46,23 @@ Azure AI Service <br>
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
+<img src="https://github.com/vaibhavshejwal/Translator/blob/main/Appservice.png"></img><br>
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
+<img src="https://github.com/vaibhavshejwal/Translator/blob/main/aidbaz%20DB.png"></img><br>
 <h3>Azure AI Translator Service</h3>
 <b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
-<h3>Working Live Project Display</h3>
-<b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
+<img src="https://github.com/vaibhavshejwal/Translator/blob/main/Translatorservice.png"></img><br>
+<h3>Live Project Display</h3>
+<b>Description :</b><p align="justify">Please find the final working website's screenshot below.</p>
+<img src="https://github.com/vaibhavshejwal/Translator/blob/main/Website.png"></img>
 
-<h3>Resource Visualizer</h3>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
+<h3>Resource Visualizer Screenshot for reference</h3>
+<img src="https://github.com/vaibhavshejwal/Translator/blob/main/Resources.png"></img>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
-The Multilingual Content Hub redefines language connectivity by using seamlessly merging generation and linguistic finesse. This task, empowered by means of Azure's sturdy infrastructure, not most effective tackles language barriers however envisions a destiny wherein verbal exchange transcends borders.</p>
+The Multilingual Content Hub revolutionizes language connectivity by seamlessly blending innovation with linguistic expertise. This initiative, powered by Azure's robust infrastructure, not only addresses language barriers but also envisages a future where communication transcends geographical borders.</p>
 <p align="justify">
-<b>As we finish, the Multilingual Content Hub isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
-</p> <br>
-</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service</b></a>
+<b>As we conclude, the Multilingual Content Hub represents more than just a tool; it embodies an ongoing journey into the boundless realms of communication. In an age characterized by global interconnectedness, this initiative marks a significant stride towards enhanced accessibility and interconnectedness on an international scale.</b>
+</p>
