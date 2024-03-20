@@ -20,7 +20,7 @@ mycursor = mydb.cursor()
 
 @app.route('/', methods=['GET'])
 def index():
-    mycursor.execute("SELECT * FROM histroy")
+    mycursor.execute("SELECT * FROM history")
 
     myresult = mycursor.fetchall()
 
