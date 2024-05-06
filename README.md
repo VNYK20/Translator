@@ -1,10 +1,8 @@
-<h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project </h1>
-<h2>Project Title:</h2><b><a href="https://aitranslatorwebapp.azurewebsites.net/">PolyLingo - AI Translation Web App using Azure AI Translation Service.</b></a>
+<h2>Project Title:</h2><b><a href="https://polylingo.azurewebsites.net/">PolyLingo - AI Translation Web App using Azure AI Translation Service.</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://aitranslatorwebapp.azurewebsites.net/ <br>
-<b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
-<b>Github Repository URL :</b> https://github.com/vaibhavshejwal/Translator <br>
+<b>Project Demo URL :</b> https://polylingo.azurewebsites.net/ <br>
+<b>Github Repository URL :</b> https://github.com/VNYK20/Translator.git <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
 <h3>
