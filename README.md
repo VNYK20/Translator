@@ -44,19 +44,16 @@ Azure AI Service <br>
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
-<img src="https://github.com/vaibhavshejwal/Translator/blob/main/Appservice.png"></img><br>
-<h3>Azure Databse for MySQL</h3>
+<img src="https://github.com/VNYK20/Translator/blob/main/Appservice.png?raw=true"></img><br>
+<h3>Azure Database for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
-<img src="https://github.com/vaibhavshejwal/Translator/blob/main/aidbaz%20DB.png"></img><br>
+<img src="https://github.com/VNYK20/Translator/blob/main/DB.png?raw=true"></img><br>
 <h3>Azure AI Translator Service</h3>
 <b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="https://github.com/vaibhavshejwal/Translator/blob/main/Translatorservice.png"></img><br>
+<img src="https://github.com/VNYK20/Translator/blob/main/AIservice.png?raw=true"></img><br>
 <h3>Live Project Display</h3>
 <b>Description :</b><p align="justify">Please find the final working website's screenshot below.</p>
-<img src="https://github.com/vaibhavshejwal/Translator/blob/main/Website.png"></img>
-
-<h3>Resource Visualizer Screenshot for reference</h3>
-<img src="https://github.com/vaibhavshejwal/Translator/blob/main/Resources.png"></img>
+<img src="https://github.com/VNYK20/Translator/blob/main/Webpage.png?raw=true"></img>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
